@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 aasd
 asd
+=======
+asdmkla
+>>>>>>> branca2
 asd
 
